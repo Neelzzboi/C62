@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+}
+
+#slideshow{
+    background-color:aliceblue;
+}
+
+img{
+    height:300px;
+    width:300px;
+    margin:20px;
+}
+
